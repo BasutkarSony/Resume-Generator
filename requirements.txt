@@ -1,12 +1,12 @@
 1.Software & Dependencies
-Python 3.8+ (Ensure it's installed)
+Python 3.8+
 Libraries (Install using pip):
-pip install streamlit reportlab
+pip install streamlit python-docx
 
 2. Tools & Technologies
 Frontend: Streamlit
 Backend: Python
-PDF Generation: ReportLab
+Word Document Generation: python-docx
 
 3. Running the Project
 streamlit run app.py
